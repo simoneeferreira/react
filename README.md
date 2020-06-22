@@ -1,2 +1,2 @@
-# webgl-test
-Learning WebGL
+# react
+Learning React

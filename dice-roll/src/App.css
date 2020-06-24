@@ -1,7 +1,11 @@
 .App{
-    display:flex;
-    flex-wrap: wrap; /*Torna a div flexivel, fazendo com que ela se adeque ao tamanho do dispositivo*/
+    display: flex;
+    flex-direction: column;
 }
 ul{
     list-style-type: none;
+}
+.Card{
+    display: flex;
+    flex-wrap: wrap; /*Torna a div flexivel, fazendo com que ela se adeque ao tamanho do dispositivo*/
 }

@@ -1,4 +1,4 @@
-.Card{
+.Cards{
     flex: 1; /*Tudo que esta dentrovai p topo do card*/
     margin: 20px;
     border: 3px solid #000;
@@ -9,13 +9,13 @@
     flex-direction: column;/*Possibilita a quebra da quando o box chegar ao min-width estabelecido */
     min-width: 300px; 
 }
-.Card .Conteudo{
+.Cards .Conteudo{
     flex: 1;
     background-color: #fff;
     color: #000;
     padding: 15px 0;
 }
-.Card .Footer{
+.Cards .Footer{
     padding: 5px 0;
     background-color: #000;
     color: #fff;

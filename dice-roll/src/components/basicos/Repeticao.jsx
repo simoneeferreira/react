@@ -1,6 +1,6 @@
 import React from 'react'
 
-import products from '../data/products.js'
+import products from '../../data/products.js'
 
 export default props =>{
     function getProductsListItem(){
